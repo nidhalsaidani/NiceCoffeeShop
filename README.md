@@ -1,49 +1,16 @@
-# Cafe Treat - Coffee-Themed Portfolio Website
+# Nice Coffee Shop
 
-Welcome to Cafe Treat, a coffee-themed portfolio website showcasing my passion for front-end web development and creativity.
-<!-- ![Preview Image](assets\images\preview-img\preview.png) -->
+## Site en construction
 
-Visit the live website: [Cafe Treat](https://cafe-treat.vercel.app/)
-
-## Table of Contents
-
-- [About](#about)
-- [Menu](#menu)
-- [Reviews](#reviews)
-- [Contact](#contact)
-- [Technologies Used](#technologies-used)
-- [License](#license)
-- [Under Development](#under-development)
-
-## About
-
-Cafe Treat is a project that I've developed to demonstrate my skills in front-end web development. The website presents a coffee-themed cafe with a variety of coffee drinks, pastries, and other food items.
-
-Explore the website to learn more about Cafe Treat, its founders, the menu offerings, and what customers have to say.
-
-## Menu
-
-Browse through the menu section to discover a diverse range of coffee drinks, delicious pastries, and savory food items. Each item is meticulously crafted to provide a delightful experience.
-
-## Reviews
-
-The Reviews section features testimonials from satisfied customers who have enjoyed their time at Cafe Treat. Read what they have to say about our coffee, pastries, and overall experience.
-
-## Contact
-
-Have questions, feedback, or just want to reach out? Feel free to contact us through the provided contact form.
-
-## Technologies Used
-
-This project is built using:
-
-- HTML5
-- Tailwind CSS
-- JavaScript
-
-## Under Development
-
+Merci de visiter Nice Coffee Shop ! Nous travaillons actuellement dur pour vous offrir une expérience thématisée autour du café. Restez connecté pour des mises à jour et du contenu passionnant à venir !
 
 ---
 
-Thank you for visiting Cafe Treat! We hope you enjoy exploring our coffee-themed portfolio website. For any inquiries, please don't hesitate to get in touch.
+Nous apprécions votre patience et avons hâte de partager notre aventure avec vous. À très bientôt !
+
+---
+
+**Suivez-nous sur Instagram :** [Nice Coffee Shop Instagram](https://instagram.com/Nice_Coffee_Shop)  
+**Contactez-nous par e-mail :** [Contact@NiceCoffeeShop.fr](mailto:Contact@NiceCoffeeShop.fr)
+
+
