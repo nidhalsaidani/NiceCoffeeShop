@@ -1,6 +1,6 @@
 # Nice Coffee Shop
 
-Si tu passes par là, c’est qu’il reste encore de l’espoir…
+Si tu passes par là, c’est qu’il reste encore de l’espoir… tu cherches à découvrir la vérité… 🐥
 
 ## Site en construction
 
