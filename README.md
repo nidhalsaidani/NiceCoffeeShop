@@ -1,5 +1,7 @@
 # Nice Coffee Shop
 
+Si tu passes par là, c’est qu’il reste encore de l’espoir…
+
 ## Site en construction
 
 Merci de visiter Nice Coffee Shop ! Nous travaillons actuellement dur pour vous offrir une expérience thématisée autour du café. Restez connecté pour des mises à jour et du contenu passionnant à venir !
